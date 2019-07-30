@@ -2,7 +2,7 @@
   "name": "react-clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikitamehata23.github.io/react-clicky",
+  "homepage": "https://github.com/nikitamehata23/react-clicky",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
