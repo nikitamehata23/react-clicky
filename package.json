@@ -2,7 +2,7 @@
   "name": "react-clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nikitamehata23/react-clicky.git",
+  "homepage": "https://nikitamehata23.github.io/react-clicky",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -11,8 +11,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
     "predeploy": "yarn run buid",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
    
